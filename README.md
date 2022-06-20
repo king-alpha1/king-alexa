@@ -5,7 +5,7 @@
 ## ｋｉｎｇ－ａｌｅｘａ
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
+> [Automated Multi Device whatsapp bot created](https://github.com/kingalexa/Gojo-Satoru) by [kingalexa](github.com/nexusNw)
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
