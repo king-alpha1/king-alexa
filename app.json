@@ -1,6 +1,6 @@
 {
-  "name": "king-alexa",
-  "description": "whatsapp md bot created by jupiterofficial",
+  "name": "Queen-alexia",
+  "description": "whatsapp md bot created by Neptuneofficial",
   "repository": "https://github.com/nexusNw/Gojo-Satoru",
   "logo": "https://telegra.ph/file/864f7f6f389e65a49b0ff.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
@@ -12,7 +12,7 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-    "url": "https://github.com/kingalexa/Heroku-imagemagick"
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
@@ -25,4 +25,3 @@
         }
     }
 }
-
